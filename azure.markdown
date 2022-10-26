@@ -55,7 +55,7 @@ permalink: /azure/
 	            <th style="width:7%">Category</th>
             <th style="width:10%">Service</th>
             <th>
-              <img  src="assets/img/logo/msazure.svg" alt="Microsoft Azure Log"/>
+              <img  src="/assets/img/logo/msazure.svg" alt="Microsoft Azure Log"/>
             </th>
   </tr>
 	{% for item in site.data.cloudservices.services %}
